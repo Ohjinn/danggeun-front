@@ -1,0 +1,12 @@
+i.btn1 {
+    color:coral;
+    position: absolute;
+    top: 80%;
+    left : 70%; 
+  }
+
+.btn-orange{
+  background-color: #fd7e14;
+  color: #fff;
+  border-color: #fd7e14;
+}
